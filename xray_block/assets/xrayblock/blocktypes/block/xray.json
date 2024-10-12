@@ -1,0 +1,16 @@
+{
+	code: "xray",
+	drawtype: "json",
+	shape: { base: "shapes/xray" },
+	sidesolid: {
+		"all": "true"
+	},
+	sideopaque: {
+		"all": "true"
+	},
+	creativeinventory: { "general": ["*"], "construction": ["*"] },
+	blockmaterial: "Stone",
+	replaceable: 900,
+	lightAbsorption: 0,
+	resistance: 3.0,
+}

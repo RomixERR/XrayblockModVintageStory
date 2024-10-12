@@ -1,0 +1,14 @@
+{
+	ingredientPattern: "IBI,EGE,CJC",
+	ingredients: {
+		"B": {type: "Block", code: "game:glass-blue" },
+		"G": {type: "Item", code: "game:gear-temporal"},
+		"J": {type: "Item", code: "game:jonasparts-tank02"},
+		"C": {type: "Item", code: "game:ingot-cupronickel"},
+		"E": {type: "Item", code: "game:metalplate-electrum"},
+		"I": {type: "Item", code: "game:crushed-ilmenite"}
+	},
+	width: 3,
+	height: 3,
+	output: { type: "block", code: "xray", quantity: 1 }
+}

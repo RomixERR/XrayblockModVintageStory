@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "xrayblock",
+  "name": "Xray block",
+  "description": "Adds a Xray block",
+  "authors": ["RomixERR"],
+  "version": "1.0.0",
+  "dependencies": {
+      "game": "1.19.8"
+  }
+}
+
